@@ -1,0 +1,21 @@
+.fondo{
+    background-color: aqua;
+}
+
+.buttonColor{
+    background-color:rosybrown;
+}
+
+.container{
+    background-color: yellow;
+}
+
+.text{
+    color: white;
+    font-weight: bold;
+}
+
+.subtitle{
+    background-color: red;
+    margin-right: 78%;
+}
